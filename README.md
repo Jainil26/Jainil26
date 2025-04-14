@@ -18,7 +18,7 @@
 <a href="https://linkedin.com/in/jainil chavda" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jainil chavda" height="30" width="40" /></a>
 <a href="https://kaggle.com/jainilchavda" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="jainilchavda" height="30" width="40" /></a>
 <a href="https://medium.com/@jainilchavda26" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@jainilchavda26" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/motivational vibes" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@motivational_vibes-j26" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/@motivational_vibes-j26" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@motivational_vibes-j26" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/jainilchavda26" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="jainilchavda26" height="30" width="40" /></a>
 </p>
 
@@ -30,4 +30,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jainil26&show_icons=true&locale=en" alt="jainil26" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jainil26&" alt="jainil26" /></p>
-
