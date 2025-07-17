@@ -1,5 +1,5 @@
 # 💫 About Me:
-🌱 I’m currently learning Python<br><br>💬 Ask me about C language , Python , Numpy<br><br>📫 How to reach me jainilchavda26@gmail.com<br><br>⚡ Fun fact I Create Youtube Shorts<br>
+🌱 I’m currently learning RDBMS , Computer networking , Bootstrap <br><br>💬 Ask me about C language , Python , Numpy<br><br>📫 How to reach me jainilchavda26@gmail.com<br><br>⚡ Fun fact I Create Youtube Shorts<br>
 
 
 ## 🌐 Socials:
