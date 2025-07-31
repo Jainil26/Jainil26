@@ -27,5 +27,5 @@
   <br/>
   <img src="https://github-readme-stats.vercel.app/api?username=jainil26&show_icons=true&locale=en&bg_color=000000&hide_border=true" alt="jainil26" />
   <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jainil26&bg_color=000000" alt="jainil26" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jainil26&theme=dark" alt="jainil26" />
 </div>
