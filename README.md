@@ -31,5 +31,5 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=jainil26&theme=dark" alt="jainil26" />
 </div>
 
-![Snake animation](https://jainil26.github.io/jainil26/github-contribution-grid-snake.svg)
+
 
