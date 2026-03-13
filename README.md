@@ -1,11 +1,11 @@
 <h1 align="center">Hey there 👋, I'm Jainil Chavda</h1>
 <h3 align="center">I am a Computer Engineering Student 💻, Aim to be Ai/Ml Engineer</h3>
 
-- 🌱 I’m currently learning **Operating Systems , DSA , Computer Networks , RDBMS(MySQL)**
+- 🌱 I’m currently learning **Artificial Intelligence , Machine Learning , DSA **
 
 - 👯 I’m looking to collaborate **on open source projects that solve real world problems**
 
-- 💬 Ask me about **C language , Python , Numpy , Pandas**
+- 💬 Ask me about **C language , Python , Numpy , Pandas , Scikit-Learn**
 
 - 📫 How to reach me **jainilchavda26@gmail.com**
 
