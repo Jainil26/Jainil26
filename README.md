@@ -1,7 +1,7 @@
 <h1 align="center">Hey there 👋, I'm Jainil Chavda</h1>
 <h3 align="center">I am a Computer Engineering Student 💻, Aim to be Ai/Ml Engineer</h3>
 
-- 🌱 I’m currently learning **Artificial Intelligence , Machine Learning , DSA **
+- 🌱 I’m currently learning **Artificial Intelligence , Machine Learning , DSA**
 
 - 👯 I’m looking to collaborate **on open source projects that solve real world problems**
 
